@@ -6,7 +6,7 @@ const navi = document.querySelector(".nav");
 function rotatbody() {
 
     if (booly) {
-        icon.style.transform = "rotate(-80deg)";
+        icon.style.transform = "rotate(-105deg)";
         booly = false;
     } else {
         icon.style.transform = "rotate(0deg)";
